@@ -1,3 +1,9 @@
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=bshyn_student-crud-front&metric=code_smells)](https://sonarcloud.io/dashboard?id=bshyn_student-crud-front)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=bshyn_student-crud-front&metric=ncloc)](https://sonarcloud.io/dashboard?id=bshyn_student-crud-front)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=bshyn_student-crud-front&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=bshyn_student-crud-front)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=bshyn_student-crud-front&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=bshyn_student-crud-front)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bshyn_student-crud-front&metric=alert_status)](https://sonarcloud.io/dashboard?id=bshyn_student-crud-front)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
